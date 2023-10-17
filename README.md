@@ -1,2 +1,3 @@
 # theme-resume-demo
- Cecil Resume theme demo.
+
+Cecil Resume theme demo.
