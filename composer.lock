@@ -78,16 +78,16 @@
         },
         {
             "name": "cecil/theme-resume",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Cecilapp/theme-resume.git",
-                "reference": "e8319b7acae3d7325479ec7213fd4aee278ae9ce"
+                "reference": "11e0b1744b96f4df7b0f15f2c5d13e5c8c3547c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Cecilapp/theme-resume/zipball/e8319b7acae3d7325479ec7213fd4aee278ae9ce",
-                "reference": "e8319b7acae3d7325479ec7213fd4aee278ae9ce",
+                "url": "https://api.github.com/repos/Cecilapp/theme-resume/zipball/11e0b1744b96f4df7b0f15f2c5d13e5c8c3547c1",
+                "reference": "11e0b1744b96f4df7b0f15f2c5d13e5c8c3547c1",
                 "shasum": ""
             },
             "require": {
@@ -112,7 +112,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Cecilapp/theme-resume/issues",
-                "source": "https://github.com/Cecilapp/theme-resume/tree/1.0.2"
+                "source": "https://github.com/Cecilapp/theme-resume/tree/1.0.3"
             },
             "funding": [
                 {
@@ -124,7 +124,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2023-10-18T08:37:23+00:00"
+            "time": "2023-10-18T08:45:02+00:00"
         }
     ],
     "packages-dev": [],
