@@ -1,6 +1,6 @@
 title: John Doe
 baseline: Programmer
-baseurl: http://localhost:8000/
+baseurl: https://cecilapp.github.io/resume-demo/
 description: John Doe, Full Stack Developer Ninja Expert.
 author:
     name: Arnaud Ligny
