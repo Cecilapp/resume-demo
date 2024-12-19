@@ -11,14 +11,14 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      CECIL_BASEURL: https://cecilapp.github.io/theme-resume-demo/
+      CECIL_BASEURL: https://cecilapp.github.io/resume-demo/
       CECIL_CANONICALURL: true
     steps:
       - name: Checkout source
@@ -26,7 +26,7 @@ jobs:
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.1'
+          php-version: 8.1
           extensions: fileinfo, gd, mbstring
       - name: Build with Cecil
         uses: Cecilapp/Cecil-Action@v3
